@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VijayaKumarGedala
-- 👀 I’m interested in Data Anlytics,Data Science,AI and Machine Learning
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Data Analytics Projects
+- 👀 I’m interested in Devops,Terraform,Kubernets,Cloud,AI and Machine Learning
+- 🌱 I’m currently learning Devops
+- 💞️ I’m looking to collaborate on Devops Projects
 - 📫 How to reach me vijaysiri048@gmail.com
 - 😄 Pronouns: Vijay
 - ⚡ Fun fact: Just Think it might work out
